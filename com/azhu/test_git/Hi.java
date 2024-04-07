@@ -8,6 +8,6 @@ package com.azhu.test_git;
  */
 public class Hi {
     public static void main(String[] args) {
-        System.out.println("");
+        System.out.println("hi");
     }
 }
